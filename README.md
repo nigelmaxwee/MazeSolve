@@ -1,2 +1,3 @@
 # MazeSolve
-Solving a pre-generated square maze using recursion based off Depth-First Search (DFS).
+Exploring the use of resursion and Depth-First Search (DFS) algorithm to solve a maze.
+
