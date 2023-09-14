@@ -12,5 +12,5 @@ To run this program:
 
 This code was done and graded as a group project for MS1008 Introduction to Computational Thinking at Nanyang Technological University (NTU) where I received an overall A grade for this module.
 My contributions to this project included:
-1. Coding majority of the code which includes the slicing, start and end inputs, display, and recursion portions.
+1. Coded majority of the code which includes the slicing, start and end inputs, display, and recursion portions.
 2. Created the overall flowchart of the code and logic.
