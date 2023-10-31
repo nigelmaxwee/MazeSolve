@@ -10,3 +10,7 @@ To run this program:
 2. Ensure that both .py file and .txt file are in the same directory
 3. Run .py file (Spyder as an IDE would work the smoothest) 
 
+This code was done and graded as a group project for MS1008 Introduction to Computational Thinking at Nanyang Technological University (NTU) where I received an overall A grade for this module.
+My contributions to this project included:
+1. Coded majority of the code which includes the slicing, start and end inputs, display, and recursion portions.
+2. Created the overall flowchart of the code and logic.
